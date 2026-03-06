@@ -1,0 +1,15 @@
+C:\Users\marti\OneDrive\Desktop\SDC220L\SDC\bin\Debug\net6.0\SDC.exe
+C:\Users\marti\OneDrive\Desktop\SDC220L\SDC\bin\Debug\net6.0\SDC.deps.json
+C:\Users\marti\OneDrive\Desktop\SDC220L\SDC\bin\Debug\net6.0\SDC.runtimeconfig.json
+C:\Users\marti\OneDrive\Desktop\SDC220L\SDC\bin\Debug\net6.0\SDC.dll
+C:\Users\marti\OneDrive\Desktop\SDC220L\SDC\bin\Debug\net6.0\SDC.pdb
+C:\Users\marti\OneDrive\Desktop\SDC220L\SDC\obj\Debug\net6.0\SDC.csproj.AssemblyReference.cache
+C:\Users\marti\OneDrive\Desktop\SDC220L\SDC\obj\Debug\net6.0\SDC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\OneDrive\Desktop\SDC220L\SDC\obj\Debug\net6.0\SDC.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Desktop\SDC220L\SDC\obj\Debug\net6.0\SDC.AssemblyInfo.cs
+C:\Users\marti\OneDrive\Desktop\SDC220L\SDC\obj\Debug\net6.0\SDC.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Desktop\SDC220L\SDC\obj\Debug\net6.0\SDC.dll
+C:\Users\marti\OneDrive\Desktop\SDC220L\SDC\obj\Debug\net6.0\refint\SDC.dll
+C:\Users\marti\OneDrive\Desktop\SDC220L\SDC\obj\Debug\net6.0\SDC.pdb
+C:\Users\marti\OneDrive\Desktop\SDC220L\SDC\obj\Debug\net6.0\SDC.genruntimeconfig.cache
+C:\Users\marti\OneDrive\Desktop\SDC220L\SDC\obj\Debug\net6.0\ref\SDC.dll
